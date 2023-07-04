@@ -1,5 +1,5 @@
 ## watch disney calendar sample
-![screen_shot.png](./sample.png)
+![screen_shot.png](./'screen_shot.png')
 
 ## GCP API
 - Drive sync
